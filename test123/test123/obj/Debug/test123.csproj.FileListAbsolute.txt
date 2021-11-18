@@ -1,0 +1,10 @@
+C:\Users\77767\source\repos\test123\test123\bin\Debug\test123.exe.config
+C:\Users\77767\source\repos\test123\test123\bin\Debug\test123.exe
+C:\Users\77767\source\repos\test123\test123\bin\Debug\test123.pdb
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.csproj.AssemblyReference.cache
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.Form1.resources
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.Properties.Resources.resources
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.csproj.GenerateResource.cache
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.csproj.CoreCompileInputs.cache
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.exe
+C:\Users\77767\source\repos\test123\test123\obj\Debug\test123.pdb
